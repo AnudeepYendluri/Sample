@@ -50,7 +50,7 @@ public class StudentService {
 		if(student1 != null) {
 			return "student updated succesfully";
 		}
-		return "something went wrong";
+		return "something has went wrong";
 		
 		
 	}
